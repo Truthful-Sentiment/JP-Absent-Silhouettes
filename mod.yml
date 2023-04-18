@@ -1,0 +1,45 @@
+title: JP Absent Silhouettes
+originalAuthor: Truthful Sentiment
+game: kh2
+description: Replaces the English voices of the Absent Silhouettes with their Japanese voices.
+assets:
+- name: voice/us/battle/n_larxene.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/n_larxene.win32.scd
+- name: remastered/obj/B_EX400.a.us/voice/battle/us/n_larxene
+  method: copy
+  source:
+  - name: remastered/obj/B_EX400.a.us/voice/battle/us/n_larxene
+- name: voice/us/battle/n_lexaeus.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/n_lexaeus.win32.scd
+- name: remastered/obj/N_CM020_BTL.a.us/voice/battle/us/n_lexaeus
+  method: copy
+  source:
+  - name: remastered/obj/N_CM020_BTL.a.us/voice/battle/us/n_lexaeus
+- name: voice/us/battle/n_marluxia.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/n_marluxia.win32.scd
+- name: remastered/obj/N_CM000_BTL.a.us/voice/battle/us/n_marluxia
+  method: copy
+  source:
+  - name: remastered/obj/N_CM000_BTL.a.us/voice/battle/us/n_marluxia
+- name: voice/us/battle/n_vexen.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/n_vexen.win32.scd
+- name: remastered/obj/N_CM040_BTL.a.us/voice/battle/us/n_vexen
+  method: copy
+  source:
+  - name: remastered/obj/N_CM040_BTL.a.us/voice/battle/us/n_vexen
+- name: voice/us/battle/n_zexion.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/n_zexion.win32.scd
+- name: remastered/obj/B_EX370.a.us/voice/battle/us/n_zexion
+  method: copy
+  source:
+  - name: remastered/obj/B_EX370.a.us/voice/battle/us/n_zexion
